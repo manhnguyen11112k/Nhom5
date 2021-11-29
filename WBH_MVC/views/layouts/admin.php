@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>9XWatch | AdminPage</title>
+  <title>Shoppee | AdminPage</title>
   <base href="/WBH_MVC/">
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
@@ -52,15 +52,15 @@ href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,30
     <header class="main-header">
 
       <!-- Logo -->
-      <a href="indexadmin/Dashboard" class="logo">
+      <a style="background-color: #fb5530" href="indexadmin/Dashboard" class="logo">
         <!-- mini logo for sidebar mini 50x50 pixels -->
         <span class="logo-mini"><b>A</b>LT</span>
         <!-- logo for regular state and mobile devices -->
-        <span class="logo-lg"><b>9X</b>Watch.<b>Admin</b></span>
+        <span class="logo-lg"><b>Shoppee.<b>Admin</b></span>
       </a>
 
       <!-- Header Navbar: style can be found in header.less -->
-      <nav class="navbar navbar-static-top">
+      <nav style="background-color: #fb5530" class="navbar navbar-static-top">
         <!-- Sidebar toggle button-->
         <a href="#" class="sidebar-toggle" data-toggle="push-menu" role="button">
           <span class="sr-only">Toggle navigation</span>
@@ -114,7 +114,7 @@ href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,30
             <li class="dropdown user user-menu">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                 <img src="views/admin/AdminLTE/dist/img/user2-160x160.jpg" class="user-image" alt="User Image">
-                <span class="hidden-xs"><?php echo $_SESSION['admin']['ten'] ?></span>
+               <span class="hidden-xs"><?php echo $_SESSION['admin']['ten'] ?></span>-->
               </a>
               <ul class="dropdown-menu">
                 <!-- User image -->

@@ -9,15 +9,15 @@
 	<script type="text/javascript" src="public/bootstrap/js/bootstrap.min.js"></script>
 </head>
 <body>
-	<div class="container-fluid" style="background-color: #2c56b5; text-align: center; margin-bottom: 20px">
-		<img src="public/images/logo.png">
+	<div class="container-fluid" style="background-color: #fb5530; text-align: center; margin-bottom: 20px">
+		<img src="public/images/logo2.png">
 	</div>
 	<div class="container">
 		<div class="row">
 			<div class="col-md-2"></div>
 			<div class="col-md-8">
 				<form>
-					<legend>Đăng Nhập Admin 9XWatch</legend>
+					<legend>Đăng Nhập Admin Shoppee</legend>
 					<span><i id="err" style="color: red"></i></span>
 
 					<div class="form-group">
