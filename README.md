@@ -10,7 +10,7 @@
  ![mhmvc](https://user-images.githubusercontent.com/91788373/143889083-8c1024b8-a1cb-4d01-934b-9446f57bc295.png)
  ![mvc](https://user-images.githubusercontent.com/91788373/143889177-d1d43bac-df2b-4f83-bde4-32dfb85ef990.png)
  
- Web bán hàng viết bằng PHP MVC
+ Web viết bằng PHP MVC
  Chức năng:
 - Giỏ hàng: tự động cập nhật và đồng bộ khi người dùng đăng nhập (những sản phẩm nào chưa có sẽ được thêm vào giỏ, có rồi thì bỏ qua).
 - Xem chi tiết sản phẩm: chi tiết sản phẩm được hiển thị cùng trang qua modal kết hợp với ajax giúp người dùng xem sản phẩm dễ dàng hơn.
