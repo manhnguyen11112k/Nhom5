@@ -2,7 +2,7 @@
 # Đề tài nhóm: Thiết kế trang quản lý sản phẩm dạng Shoppee
 
 1. Ngôn ngũ thiết kế
- - HTHL, CSS, PHP, MySQL,...
+ - HTML, CSS, PHP, MySQL,...
 2. Kiến trúc
  * Kiến trúc Client/Server
  ![client](https://user-images.githubusercontent.com/91788373/143888978-50396ac7-e908-4028-b533-912acc8cb50b.png)
