@@ -19,6 +19,8 @@
 	+ Hiển thị tổng quan về thành viên và các đơn hàng.
 	+ Thêm xóa sửa thành viên, giao dịch, sản phẩm, danh mục sản phẩm.
 
+![Screenshot (763)](https://user-images.githubusercontent.com/91788373/143890722-d2ea10f0-75be-409e-8375-6d6a76237d18.png)
+
 ![Screenshot (768)](https://user-images.githubusercontent.com/91788373/143890866-93b5f466-f820-4c96-83ae-0a5795421d80.png)
 
 ![Screenshot (765)](https://user-images.githubusercontent.com/91788373/143890948-91138b30-6da7-401e-884f-486e752e0f63.png)
@@ -35,5 +37,5 @@
  
  ![Screenshot (761)](https://user-images.githubusercontent.com/91788373/143890620-a5fcc143-3736-4f6b-ba5f-397dbd368e73.png)
  
- ![Screenshot (763)](https://user-images.githubusercontent.com/91788373/143890722-d2ea10f0-75be-409e-8375-6d6a76237d18.png)
+
 
